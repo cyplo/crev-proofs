@@ -1,0 +1,21 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-05-02T10:28:42.212418904+01:00"
+from:
+  id-type: crev
+  id: c1DBeLoxyO5CDu6-eA5mU4wg4ZDlDqKm2eqo1mR8qeQ
+  url: "https://github.com/cyplo/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: proptest
+  version: 0.8.7
+  digest: _N4onO7w2xCmMG3iQf0R7xDCSLxEfXUHu9rluWvMYz8
+review:
+  thoroughness: none
+  understanding: medium
+  rating: positive
+comment: "Skimmend through sources, looking for code smells, looks okay, some functions could be shorter to improve readability."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+e1jHh6PI_18iwZrKd47xWcrWrlr-_HYFZiRvTtS7Pg8Io5Uoxs8j3Zkv58V3XIWwHLBP1BiHel-gyNOjGbbkBg
+-----END CREV PACKAGE REVIEW-----
+
